@@ -1,0 +1,1 @@
+# smar-test-module
